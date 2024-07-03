@@ -1,1 +1,1 @@
-Przekszta lcenia 2D w bibliotece pygame
+Przeksztalcenia 2D w bibliotece pygame
