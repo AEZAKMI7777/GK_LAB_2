@@ -99,7 +99,7 @@ def transform_polygon(polygon, option):
 def main():
     running = True
     option = 1
-    num_sides = 11
+    num_sides = 15  # Changed from 11 to 15
     polygon = Polygon(num_sides)
     font = pygame.font.Font(None, 14)
 
